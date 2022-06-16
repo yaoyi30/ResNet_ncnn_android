@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ncnn-android-squeezenet-master/app/.cxx/cmake/debug/x86",
+  "command": "D:\\android_sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=D:/android_sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dsqueezencnn_EXPORTS -isystem D:/ncnn-android-squeezenet-master/app/src/main/jni/ncnn-20211208-android-vulkan/x86/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\squeezencnn.dir\\squeezencnn_jni.cpp.o -c D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\squeezencnn_jni.cpp",
+  "file": "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\squeezencnn_jni.cpp"
+}
+]

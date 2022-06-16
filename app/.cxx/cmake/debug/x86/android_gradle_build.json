@@ -1,0 +1,54 @@
+{
+  "stringTable": {
+    "0": "D:/ncnn-android-squeezenet-master/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android24 --gcc-toolchain=D:/android_sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/android_sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsqueezencnn_EXPORTS -isystem D:/ncnn-android-squeezenet-master/app/src/main/jni/ncnn-20211208-android-vulkan/x86/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "squeezencnn-Debug-x86": {
+      "buildCommand": "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" squeezencnn",
+      "buildType": "debug",
+      "toolchain": "345325578",
+      "abi": "x86",
+      "artifactName": "squeezencnn",
+      "files": [
+        {
+          "src": "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\squeezencnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\ncnn-android-squeezenet-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libsqueezencnn.so"
+    }
+  },
+  "toolchains": {
+    "345325578": {
+      "cppCompilerExecutable": "D:\\android_sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\jni\\ncnn-20211208-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "D:\\android_sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "squeezencnn-Debug-x86": {
+      "artifactName": "squeezencnn",
+      "buildCommand": "D:\\android_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ncnn-android-squeezenet-master\\app\\.cxx\\cmake\\debug\\x86\" squeezencnn",
+      "abi": "x86",
+      "output": "D:\\ncnn-android-squeezenet-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libsqueezencnn.so"
+    }
+  }
+}

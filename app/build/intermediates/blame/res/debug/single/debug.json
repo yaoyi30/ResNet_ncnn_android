@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ncnn-android-squeezenet-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ncnn-android-squeezenet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\ncnn-android-squeezenet-master\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Jun 16 13:35:47 CST 2022
+base.0=D\:\\ncnn-android-squeezenet-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
