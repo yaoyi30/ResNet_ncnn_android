@@ -5,6 +5,8 @@ dataset used for training:https://www.kaggle.com/slothkong/10-monkey-species
 
 ResNet training code:https://github.com/yaoyi30/ResNet_Image_Classification_PyTorch
 
+For more details see:https://blog.csdn.net/qq_38412266/article/details/112868835?spm=1001.2014.3001.5502
+
 # how to build and run
 ## step1
 https://github.com/Tencent/ncnn/releases
